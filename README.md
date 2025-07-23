@@ -1,0 +1,2 @@
+# analyticalReports
+CryptoVanguardの独占レポート
